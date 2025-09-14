@@ -1,0 +1,36 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.pdb
+*.pak
+*.zip
+*.exe
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+Build/
+BuildAlpha/
+*.dll
+*.app
+*.dylib
+*.so
+
+# Backup/Temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Mac/Windows OS
+.DS_Store
+Thumbs.db
+EOF
